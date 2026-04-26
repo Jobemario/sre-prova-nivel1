@@ -51,6 +51,7 @@ Versionamento: Git
 
 🐳 Containerização com Docker
 Dockerfile
+
 FROM python:3.11-slim
 
 WORKDIR /app
